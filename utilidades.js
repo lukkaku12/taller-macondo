@@ -1,0 +1,1 @@
+export let salario = 2500000;
